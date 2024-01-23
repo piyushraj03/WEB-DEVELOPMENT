@@ -1,0 +1,16 @@
+*{
+    /* margin: 50px 150px 50px 150px; */
+    background-color: blanchedalmond;
+    padding: 0;
+
+}
+.wrapper{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    background-color: aquamarine;
+    display: flex;
+}

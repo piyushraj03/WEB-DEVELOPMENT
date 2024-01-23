@@ -1,0 +1,11 @@
+.txt{
+    text-shadow: 0.5px 0.5px 1px red;
+    text-shadow: 0.5px 0.5px 1px red,0.5px 0.5px 1px green;
+
+}
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    box-shadow: 1px 1px 5px grey;
+}
